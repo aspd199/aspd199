@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180">
+  <rect x="2" y="2" width="491" height="176" rx="12" fill="#f3e8ff" stroke="#7e22ce" stroke-width="2"/>
+
+  <text x="22" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#6b21a8">signal</text>
+
+  <!-- grid lines -->
+  <line x1="22" y1="60" x2="473" y2="60" stroke="#c4b5fd" stroke-width="1"/>
+  <line x1="22" y1="90" x2="473" y2="90" stroke="#c4b5fd" stroke-width="1"/>
+  <line x1="22" y1="120" x2="473" y2="120" stroke="#c4b5fd" stroke-width="1"/>
+  <line x1="22" y1="150" x2="473" y2="150" stroke="#c4b5fd" stroke-width="1"/>
+
+  <!-- area fill -->
+  <path d="M22,150 L60,118 L97,92 L135,128 L173,68 L211,108 L248,94 L286,58 L324,118 L361,98 L399,84 L437,116 L473,88 L473,150 L22,150 Z" fill="#a78bfa" fill-opacity="0.35"/>
+
+  <!-- top line -->
+  <polyline points="22,150 60,118 97,92 135,128 173,68 211,108 248,94 286,58 324,118 361,98 399,84 437,116 473,88" fill="none" stroke="#6b21a8" stroke-width="2.5" stroke-linejoin="round"/>
+
+  <!-- month labels -->
+  <text x="28"  y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Jan</text>
+  <text x="69"  y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Feb</text>
+  <text x="111" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Mar</text>
+  <text x="152" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Apr</text>
+  <text x="194" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">May</text>
+  <text x="235" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Jun</text>
+  <text x="277" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Jul</text>
+  <text x="318" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Aug</text>
+  <text x="360" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Sep</text>
+  <text x="401" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Oct</text>
+  <text x="443" y="168" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#7e22ce">Nov</text>
+</svg>

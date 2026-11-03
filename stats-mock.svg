@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180">
+  <rect x="2" y="2" width="491" height="176" rx="12" fill="#f3e8ff" stroke="#7e22ce" stroke-width="2"/>
+
+  <text x="22" y="36" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#6b21a8">immortal</text>
+  <line x1="22" y1="46" x2="473" y2="46" stroke="#c4b5fd" stroke-width="1.5"/>
+
+  <circle cx="30" cy="72" r="5" fill="#E03131"/>
+  <text x="46" y="76" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4c1d95">Days Alive</text>
+  <text x="473" y="76" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4c1d95">&#8734;</text>
+
+  <circle cx="30" cy="94" r="5" fill="#F76707"/>
+  <text x="46" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4c1d95">Deaths Logged</text>
+  <text x="473" y="98" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4c1d95">0</text>
+
+  <circle cx="30" cy="116" r="5" fill="#2F9E44"/>
+  <text x="46" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4c1d95">Aging</text>
+  <text x="473" y="120" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4c1d95">frozen</text>
+
+  <circle cx="30" cy="138" r="5" fill="#1C7ED6"/>
+  <text x="46" y="142" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4c1d95">Respawn</text>
+  <text x="473" y="142" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4c1d95">off</text>
+
+  <circle cx="30" cy="160" r="5" fill="#E64980"/>
+  <text x="46" y="164" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4c1d95">Vitality</text>
+  <text x="473" y="164" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4c1d95">100%</text>
+</svg>
